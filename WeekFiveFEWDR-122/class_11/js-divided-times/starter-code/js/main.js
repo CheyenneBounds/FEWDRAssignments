@@ -108,5 +108,5 @@ $(document).ready(function() {
         } else {
             $('#slide-down').slideUp(150).removeClass('open')
         }
-    })
+    });
 });
