@@ -1,4 +1,11 @@
-
+// click on item in nav bar.
+// prevent defualt behavior.
+// on click slide down.
+// display only sibling of slide down related to nav item.
+// change class of line item clicked on.
+// if line item is selected and another is selected display related sibling instead.
+// hide sibling that was displayed.
+// if clicked item is clicked again slide up and display original class.
 $(document).ready(function() {
     $('#primary-nav .international').on('click', function(e) {
         e.preventDefault();
