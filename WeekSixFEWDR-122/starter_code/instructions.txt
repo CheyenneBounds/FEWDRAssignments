@@ -1,0 +1,7 @@
+In this lab you will build a version of the carousel. You can choose whether to use the images of food or of animals or pull photos from another location.
+
+Make sure you have viewed the obfuscated code and understand how the carousel should work and be sure to write your pseudocode first.
+
+You will use an .on(click) event to navigate between pictures (backwards and forwards) without voting(that’s bonus)
+
+Bonus: You will use the change event to give a ranking to the photos between 1 and 5. The user should be forwarded to the next image after voting.

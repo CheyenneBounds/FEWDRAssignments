@@ -82,6 +82,9 @@ span {
   padding-bottom: 0;
   margin: 1px 5px;
 }
+a:hoover {
+  background-color: #A00;
+}
 a {
   color: #D00;
   text-decoration: none;
